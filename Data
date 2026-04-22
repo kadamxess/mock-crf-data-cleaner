@@ -1,0 +1,7 @@
+SubjectID,Age,Gender,Pregnant,HeartRate
+101,25,Female,No,72
+102,130,Male,No,85
+103,29,Male,Yes,90
+104,,Female,No,200
+105,45,Female,Yes,60
+Copy this data in csv and use it as input
