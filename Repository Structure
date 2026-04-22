@@ -1,0 +1,5 @@
+mock-crf-data-cleaner/
+│── crf_data_cleaner.py
+│── mock_clinical_data.csv
+│── README.md
+│── requirements.txt
