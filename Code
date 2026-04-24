@@ -13,7 +13,7 @@ def load_data(file_path):
 
 # Check missing values
 def check_missing(df):
-    print("\n🔍 Missing Values:")
+    print("\n Missing Values:")
     missing = df.isnull().sum()
     print(missing[missing > 0])
     return missing
